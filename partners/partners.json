@@ -1,0 +1,12 @@
+{
+  "_comment": "武汉市跨境电子商务协会版只保留这一家。qrWechat 为 null 时显示『二维码即将上线』；拿到该协会专属的经理企业微信活码后填相对路径。",
+  "list": [
+    {
+      "id": "wuhan-cbec",
+      "name": "武汉市跨境电子商务协会",
+      "shortName": "武汉跨协",
+      "logo": "partners/whcbec-emblem.png",
+      "qrWechat": null
+    }
+  ]
+}
